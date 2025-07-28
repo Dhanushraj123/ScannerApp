@@ -31,6 +31,7 @@ Users can view their personal scan history in a neatly listed format.
 
 ---
 
+## Note : the .apk file is uploaded in the releases.
 ## Installation & Run Locally
 
 1. Clone the repo:
