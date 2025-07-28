@@ -8,7 +8,7 @@ View scan history (user-specific)
 ---
 
 ## Features
-**Firebase Authentication**  
+**Supabase Authentication**  
 Users can log in securely using email and password.
 
 **QR Code Scanner**  
@@ -25,7 +25,7 @@ Users can view their personal scan history in a neatly listed format.
 ## Tech Stack
 
 **React Native (with Expo)**
-**Firebase Authentication**
+**Supabase Authentication**
 **Supabase (PostgreSQL + RLS)**
 **Expo Camera**
 
