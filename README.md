@@ -31,6 +31,8 @@ Users can view their personal scan history in a neatly listed format.
 
 ---
 
+## Note : add .env file in your code and add the url key and anon key of ur database supabase 
+
 ## Note : the .apk file is uploaded in the releases.
 ## Installation & Run Locally
 
